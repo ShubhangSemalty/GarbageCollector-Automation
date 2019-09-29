@@ -4,16 +4,17 @@ This project was created to demonstrate surveillance type approach to the curren
 
 DEPENDANCIES
 
-Radio connection is established wihtout any issue.
-RFID is correctly read.
-Radio transmission takes place properly.
+1.Radio connection is established wihtout any issue.
+2.RFID is correctly read.
+3.Radio transmission takes place properly.
+
 Equipment used:
 
-Arduino UNo
-Breadboard
-nRF sensors (1 for transmission and one for receival.
-RFID Card reader by REES52 ( only a single unit)
-Capacitors: 100uF / 25V for nRF sensors (Spherical type)
-Jumper wires.
-Buzzer
-ESP8266 (for server side programming and data transfer)
+1.Arduino UNo
+2.Breadboard
+3.nRF sensors (1 for transmission and one for receival.
+4.RFID Card reader by REES52 ( only a single unit)
+5.Capacitors: 100uF / 25V for nRF sensors (Spherical type)
+6.Jumper wires.
+7.Buzzer
+8.ESP8266 (for server side programming and data transfer)
