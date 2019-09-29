@@ -18,4 +18,4 @@ Equipment used:
 5.Capacitors: 100uF / 25V for nRF sensors (Spherical type)
 6.Jumper wires.
 7.Buzzer
-8.ESP8266 (for server side programming and data transfer)
+ 8.ESP8266 (for server side programming and data transfer)
