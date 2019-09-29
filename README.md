@@ -17,4 +17,3 @@ Capacitors: 100uF / 25V for nRF sensors (Spherical type)
 Jumper wires.
 Buzzer
 ESP8266 (for server side programming and data transfer)
-© 2019 GitHu
