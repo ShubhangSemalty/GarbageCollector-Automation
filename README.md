@@ -8,6 +8,7 @@ DEPENDANCIES
 2.RFID is correctly read.
 3.Radio transmission takes place properly.
 
+
 Equipment used:
 
 1.Arduino UNo
